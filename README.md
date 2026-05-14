@@ -144,7 +144,7 @@ The network design supports future expansion through:
 ---
 
 ## Building A Connectivity Test
-![Building A Test](screenshots/buildingA-test.png)
+![Building A Test](screenshots/buildinA-test.png)
 
 ---
 
